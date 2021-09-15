@@ -1,3 +1,7 @@
 Classes from, Khan Academy.
 
 U#1 : Analyzing Categorial Data
+U#2 : Displaying and Comparing Quantitative Data
+
+
+
